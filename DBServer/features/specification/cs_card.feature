@@ -2,7 +2,7 @@
 #  encoding: utf-8
 Funcionalidade: Comprar em loja virtual
 Sendo usuário da loja virtual demo cs cart
-Posso consultar e efetuar compara de protudos 
+Posso consultar e efetuar compras de protudos 
 Para suprir as minhas necessidades
 
 @validar_carrinho
